@@ -3,7 +3,7 @@
 
         {
 
-            "host"     :  "192.168.137.1",
+            "host"     :  "192.168.43.177",
             "port"     :   22,
             "user"     :  "qywok",
             "password" :  "qywok",
@@ -29,7 +29,7 @@
         
         {
 
-            "host"     :  "192.168.137.1",
+            "host"     :  "192.168.137.9",
             "port"     :   22,
             "user"     :  "qywok",
             "password" :  "qywok",
@@ -44,7 +44,7 @@
 
         {
 
-            "host"     :  "192.168.137.1",
+            "host"     :  "192.168.137.70",
             "port"     :   22,
             "user"     :  "qywok",
             "password" :  "qywok",
