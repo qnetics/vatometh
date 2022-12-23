@@ -1,4 +1,4 @@
-# what is VATOMETH?
+# What is VATOMETH?
 
 <p align="center">
     <img src="img/vatometh_icon.jpg"></img>
@@ -6,6 +6,14 @@
  
  **_VATOMETH_** is a simple configuration management tool, It handles
 configuration management, application deployment, cloud provisioning, and network automation.
+ 
+ <hr>
+ 
+ # VATOMETH Architecture
+
+<p align="center">
+    <img src="img/architecture.jpg"></img>
+</p>
  
  <hr>
  
