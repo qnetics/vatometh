@@ -22,13 +22,12 @@ configuration management, application deployment, cloud provisioning, and networ
 ## Requirement's install
 
 ```
-$ pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
  
  ## how to use
 
 ```
-pip3 install -r requirements.txt
 python3 vatometh.py -s --file config.json
 python3 vatometh.py --crowded -f config.json
 
